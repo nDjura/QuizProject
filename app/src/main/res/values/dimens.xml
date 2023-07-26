@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="llPadding">20dp</dimen>
+
+    <dimen name="questionsMargin">20dp</dimen>
+    <dimen name="questionTextSize">24sp</dimen>
+
+    <dimen name="answerPadding">16dp</dimen>
+    <dimen name="tvOptionSize">20sp</dimen>
+
+    <dimen name="submitPadding">16dp</dimen>
+    <dimen name="tvProgressPadding">15dp</dimen>
+    <dimen name="tvProgressTextSize">14sp</dimen>
+    <dimen name="llProgressDetails">12dp</dimen>
+
+    <dimen name="QuizAppTextSize">24sp</dimen>
+    <dimen name="QuizAppMarginBottom">40dp</dimen>
+
+    <dimen name="llCardView">100dp</dimen>
+    <dimen name="nameLayoutPadding">20dp</dimen>
+    <dimen name="cardViewTextWelcomeSize">16sp</dimen>
+    <dimen name="cardViewBtnSize">16sp</dimen>
+    <dimen name="tvForgotPasswordMarginLeft">220dp</dimen>
+    <dimen name="tvDontHaveAnAccountMarginLeft">120dp</dimen>
+    <dimen name="tvRegisterMarginLeft">10dp</dimen>
+
+    <dimen name="TextSize">24sp</dimen>
+    <dimen name="alreadyHaveAnAccountMarginLeft">120dp</dimen>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#0D8382</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="quizAppTextColor">#4814A5</color>
+    <color name="llCardViewBackgroundColor">#91CEFF</color>
+
+    <color name="colorSnackBarError">#E62B1D</color>
+    <color name="colorSnackBarSuccess">#3EDA44</color>
+    <color name="lightBlue">#14D3EC</color>
+</resources>

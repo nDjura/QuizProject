@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">QuizProject</string>
+
+    <string name="welcomeUserText">Welcome</string>
+    <string name="question1">Question1</string>
+    <string name="question2">Question2</string>
+    <string name="question3">Question3</string>
+    <string name="question4">Question4</string>
+    <string name="tv_option_4">GOT</string>
+    <string name="tv_option_3">The Walking Dead</string>
+    <string name="tv_option_2">Vikings</string>
+    <string name="tv_option_1">Spartacus</string>
+    <string name="btnSubmit">Submit</string>
+
+    <string name="QuizAppText">Quiz Application</string>
+    <string name="enterYourEmail">Email</string>
+    <string name="Password">Password</string>
+
+    <string name="tvForgotPassword">Forgot password</string>
+    <string name="btnLoginText">Login</string>
+    <string name="dontHaveAnAccount">Don\'t have an account</string>
+    <string name="tvRegister">Register</string>
+    <string name="createAccount">Create Account</string>
+    <string name="ConfirmPassword">Confirm Password</string>
+    <string name="btnRegisterText">Register</string>
+    <string name="alreadyHaveAnAccount">Already have an account</string>
+    <string name="tvLogin">Login</string>
+    <string name="enterYourName">Name</string>
+    <string name="errorMessageName">Please enter your name</string>
+    <string name="errorMessageEmail">Please enter your email</string>
+    <string name="errorMessagePassword">Please enter your password</string>
+    <string name="errorMessageConfirmPassword">Please enter the same password</string>
+    <string name="errorMessagePasswordAndConfirmPassword">Please enter password and confirm password mismatch</string>
+    <string name="registerSuccess">Successfully registered</string>
+    <string name="btnStart">Start game</string>
+    <string name="uploadSuccess">Question added successfully</string>
+    <string name="questionsAddedSuccessfully">Questions added successfully</string>
+    <string name="addQuestionsError">Error while uploading questions</string>
+    <string name="enterQuestion">Please enter your question</string>
+    <string name="enterOptions">Please enter options</string>
+    <string name="permissionNotGranted">You just denied the permission for storage</string>
+    <string name="imageSelectionFailed">Image selection failed</string>
+    <string name="uploadFailed">Failed to upload question to Firebase Firestore</string>
+    <string name="enterCorrectAnswer">Please enter correct answer</string>
+
+</resources>
